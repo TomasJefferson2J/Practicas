@@ -96,8 +96,13 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 .hi{
-
-}
+                color: blue;
+                font-size: 50px;
+                text-align:center;
+                margin: auto;
+                padding: 10px;
+                font-style: italic
+              
 </style>
 </head>
 <body>
@@ -168,7 +173,6 @@ function showSlides(n) {
                         Historia
                     </h1>
                 </div>
-
 
 </body>
 </html> 
