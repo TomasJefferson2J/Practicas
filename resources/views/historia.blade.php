@@ -96,16 +96,32 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 .hi{
-                color: blue;
+                color: gray;
                 font-size: 50px;
                 text-align:center;
                 margin: auto;
                 padding: 10px;
                 font-style: italic
+}
+.h2{
+    color: black;
+                font-size: 50px;
+                text-align:center;
+                margin: auto;
+                padding: 10px;
+                font-style: italic
+            }
               
 </style>
 </head>
 <body>
+<header id="main-header">
+	
+			<header>
+				<h1>Lugares Turisticos</h1>
+			</header>
+
+	</footer> <!-- / #main-footer -->
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -173,6 +189,13 @@ function showSlides(n) {
                         Historia
                     </h1>
                 </div>
+                <div class="ml-12">
+                                <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
+                                    <h1 class="h2">
+                                    Conozca los mejores lugares para viajar.
+                                    </h1>
+                                </div>
+                            </div>
 
 </body>
 </html> 
