@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>Historia</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
@@ -93,28 +95,30 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+.hi{
+
+}
 </style>
 </head>
 <body>
-
 <div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/3JKG77X2TBE5TKD64X5SQ74F2Y.jpg" style="width:100%">
-  <div class="text">Caption Text</div>
+  <div class="text"></div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
   <img src="https://tipsparatuviaje.com/wp-content/uploads/2019/07/santuario-historico-de-machu-picchu.jpg" style="width:100%">
-  <div class="text">Caption Two</div>
+  <div class="text"></div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="https://www.incasperu.com/wp-content/uploads/2020/02/peru-en-15-dias-conocer.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
+  <div class="text"></div>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -156,7 +160,15 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
 }
+
 </script>
+<div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
+                <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
+                    <h1 class="hi">
+                        Historia
+                    </h1>
+                </div>
+
 
 </body>
 </html> 
