@@ -26,7 +26,7 @@
             left: 0;
             text-align: left;
             font-size: 0;
-            animation: 30s slidy infinite; /*el movimiento se va a mantener de forma indefinida -infinito-*/
+            animation: 15s slidy infinite; /*el movimiento se va a mantener de forma indefinida -infinito-*/
             }
 
 
@@ -47,11 +47,11 @@
     <body>
         <div id="slider">
     <figure>
-    <img src="https://pixabay.com/static/uploads/photo/2014/11/22/00/51/camera-541213_960_720.jpg" alt="">
-    <img src="https://pixabay.com/static/uploads/photo/2015/06/08/15/11/camera-801924_960_720.jpg" alt="">
-    <img src="https://pixabay.com/static/uploads/photo/2016/03/10/16/13/camera-1248682_960_720.jpg" alt="">
-    <img src="https://pixabay.com/static/uploads/photo/2015/04/07/14/27/camera-711025_960_720.jpg" alt="">
-    <img src="https://pixabay.com/static/uploads/photo/2014/09/23/20/13/photography-458050_960_720.jpg" alt="">
+    <img src="https://images-gmi-pmc.edge-generalmills.com/1fdf2172-1313-49e0-b964-9c2cbb484672.jpg" alt="">
+    <img src="https://micomidaperuana.com/wp-content/uploads/2019/09/papa-rellena.jpg" alt="">
+    <img src="https://comidasperuanas.net/wp-content/uploads/2016/11/Arroz-chaufa.jpg" alt="">
+    <img src="https://buenazo.cronosmedia.glr.pe/original/2022/06/20/62aea00d119a8801813a563b.jpg" alt="">
+    <img src="https://micevichedehoy.com/wp-content/uploads/2018/10/ceviche-carretillero_700x467-697x465.jpg" alt="">
     </figure>
     </div>
     </body>
