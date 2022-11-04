@@ -111,7 +111,6 @@ img {vertical-align: middle;}
                 padding: 10px;
                 font-style: italic
             }
-              
 </style>
 </head>
 <body>
@@ -192,7 +191,7 @@ function showSlides(n) {
                 <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                     <h1 class="h2">
-                                    Conozca los mejores lugares para viajar.
+                                    Conoce los mejores lugares para viajar y pasar un momento agradable.
                                     </h1>
                                 </div>
                             </div>
