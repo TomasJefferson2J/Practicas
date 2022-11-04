@@ -111,10 +111,20 @@ img {vertical-align: middle;}
                 padding: 10px;
                 font-style: italic
             }
+ .header {
+  height: 50px;
+  text-align: center;
+  color: black;
+                font-size: 50px;
+                text-align:center;
+                margin: auto;
+                padding: 10px;
+                font-style: italic
+ }
 </style>
 </head>
 <body>
-<header id="main-header">
+<header class="header">
 	
 			<header>
 				<h1>Lugares Turisticos</h1>
